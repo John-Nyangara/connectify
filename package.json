@@ -1,0 +1,13 @@
+{
+  "name": "connectify-platform",
+  "version": "1.0.0",
+  "description": "CONNECTIFY — Multi-Merchant E-Commerce Platform · Centralized Operations System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ecommerce", "merchant-operations", "multi-merchant", "marketplace", "kenya"],
+  "author": "Connectify",
+  "license": "ISC"
+}
